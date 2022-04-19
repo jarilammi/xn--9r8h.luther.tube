@@ -6,3 +6,5 @@ categories: ilo
 ---
 
 {% include youtube_embed.html id="m-gfYQGNC8Y" %}
+
+Neh. 8:10–11 ja Fil. 4:4.

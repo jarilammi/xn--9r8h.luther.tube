@@ -5,3 +5,5 @@
 layout: home
 list_title: 'Videot'
 ---
+
+{% include main_title.html %}

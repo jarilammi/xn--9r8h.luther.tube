@@ -30,6 +30,10 @@ github_username:  # syystunturi
 facebook_username: jari.lammi
 linkedin_username: solarflare
 
+# Disqus Comments
+disqus:
+  shortname: syystunturi
+
 # Build settings
 theme: minima
 minima:

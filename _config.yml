@@ -40,6 +40,7 @@ minima:
   date_format: "%d.%m. %Y kello %H:%M %z (%Z)"
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
